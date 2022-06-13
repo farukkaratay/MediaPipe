@@ -1,3 +1,3 @@
 # MediaPipe
 MediaPipe
-Gerçek zamanlı görüntü alarak vücut parçalarının yerini saptayan ve bacak açısını veren , mediapipe kütüphanesiyle yazılımış kod.
+Gerçek zamanlı görüntü alarak vücut parçalarının yerini saptar ve bacak duruş açısını verir.
